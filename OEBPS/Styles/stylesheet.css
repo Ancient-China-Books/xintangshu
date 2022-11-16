@@ -165,3 +165,8 @@ table td {
   border: #b9ccf9 1px solid;
   letter-spacing: 0;
 }
+.font-img {
+  border: 0;
+  vertical-align: middle;
+  height: 17.6px;
+}
