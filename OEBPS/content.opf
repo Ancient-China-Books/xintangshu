@@ -278,6 +278,9 @@
     <item id="id247" href="Text/4366.html" media-type="application/xhtml+xml"/>
     <item id="id248" href="Text/4367.html" media-type="application/xhtml+xml"/>
     <item id="id249" href="Text/4368.html" media-type="application/xhtml+xml"/>
+    <item id="i4192" href="Images/4192.png" media-type="image/png"/>
+    <item id="i4196" href="Images/4196.png" media-type="image/png"/>
+    <item id="i4196-1" href="Images/4196-1.png" media-type="image/png"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
